@@ -1,0 +1,5 @@
+from math import numpy
+
+def f(n) :
+    return n*n
+    
